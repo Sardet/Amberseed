@@ -1,4 +1,4 @@
 # Amberseed
 Amberseed Game Engine
 
-passion game engine project in its very early infant stages
+game engine passion project in its very early infant stages
